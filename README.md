@@ -22,3 +22,6 @@ ABOUT THE DATA SET:
 All images were collected using the Toloka.ai crowdsourcing service and validated by TrainingData.ru
 
 Each object contains image size, photo type, person's age, gender, user ID.
+
+IF THE NOTEBOOK IS NOT VISIBLE HERE, YOU CAN GOT TO:
+https://www.kaggle.com/mrjainniranjain/advance-mask-detector
